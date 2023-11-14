@@ -1,0 +1,27 @@
+
+
+.body {
+ background-color: aqua;
+}
+
+
+
+td {
+    padding: 6px 10px; 
+}
+
+button {
+    padding: 6px 10px;
+    border: 0;
+    border-radius: 4px;
+    color: white;
+}
+
+
+.btn-blue {
+    background-color: cornflowerblue;
+}
+
+.btn-red {
+    background-color: crimson;
+}
